@@ -1,6 +1,6 @@
 if game.PlaceId == 13772394625 then
     local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-    local Window = OrionLib:MakeWindow({Name = "Uriel Hub”| [UPD] Blade Ball", HidePremium = false, IntroText = false, IntroText = "Uriel Hub", SaveConfig = true, ConfigFolder = "Uriel Hub"})
+    local Window = OrionLib:MakeWindow({Name = "script EdwardNewgateHub", HidePremium = false, IntroText = false, IntroText = "script EdwardNewgateHub", SaveConfig = true, ConfigFolder = "script EdwardNewgateHub"})
     
     -- Main
     local Main = Window:MakeTab({
